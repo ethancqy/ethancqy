@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+---
 ## About Me:
 I'm Ethan, an incoming Data Science student at National University of Singapore. <br>
 My interests range from data science and machine learning to psychology and finance.
@@ -10,5 +10,5 @@ So far, my curiosity has led me to:
 
 ## Contacts:
 If you're interested in what I do, let's have a chat!
-* Linkedin: [https://www.linkedin.com/in/ethancqy]
+* Linkedin: https://www.linkedin.com/in/ethancqy
 * Email: ethancqy@gmail.com
