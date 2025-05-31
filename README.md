@@ -2,7 +2,7 @@
 I'm Ethan, an incoming Data Science student at National University of Singapore. <br>
 My interests range from data science and machine learning to psychology and finance.
 
-## My Interests
+## Some Projects
 So far, my curiosity has led me to:
 * Create and optimise a Neural Network from Scratch using MNIST data.
 
