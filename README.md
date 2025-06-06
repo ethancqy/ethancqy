@@ -1,5 +1,7 @@
 ## Hi there! 👋
-I'm Ethan, an incoming Data Science student at National University of Singapore. I have many interests, but here are a few: Data Science, Machine Learning, Finance, Cognitive Psychology, Analytical Philosophy.
+I'm Ethan, an incoming Data Science student at National University of Singapore. I have many interests, but here are a few: data science, machine learning, finance, cognitive csychology, analytical philosophy. 
+
+I enjoy analysis and strive to think critically about the world, this pushes me to embark on interesting projects and constantly try new things. Hope you find what I do interesting as well :)
 
 ### ⭐ Currently, I am:
 * Getting ready for university.
