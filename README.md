@@ -7,6 +7,7 @@ I enjoy analysis and strive to think critically about the world, this pushes me 
 * In university studying Data Science and Analytics.
 
 ### 🚀 So far, my curiosity has led me to:
+* Author an article explaining the **RT-DETRv2 Model Architecture** in 8 illustrations [[Link](https://arxiv.org/abs/2509.01241)]
 * Conduct **Spectral Working Memory Load Analysis** using EEG and iEEG signals. [[Link](https://github.com/ethancqy/portfolio/tree/main/Working%20Memory%20Load%20Analysis%20via%20EEG%20and%20iEEG%20Signals%20in%20Sternberg%20Task)]
 * Create and optimise a **Neural Network from Scratch** using MNIST data. [[Link](https://github.com/ethancqy/portfolio/tree/main/Neural%20Network%20from%20Scratch%20(MNIST))]
 
