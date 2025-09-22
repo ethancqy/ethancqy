@@ -3,7 +3,7 @@ I'm Ethan, a Data Science student at National University of Singapore. I have ma
 
 I enjoy analysis and strive to think critically about the world, this pushes me to embark on interesting projects and constantly try new things. Hope you find what I do interesting as well :)
 
-### ⭐ Currently:
+### ⭐ Currently, I am:
 * In university studying Data Science and Analytics.
 
 ### 🚀 So far, my curiosity has led me to:
